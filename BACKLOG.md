@@ -22,3 +22,9 @@ Deve-se explicar como funciona o módulo, adicionar descrição nas variáveis e
     - Cluster;
     - Node group EC2;
     - Node group Fargate;
+- Lambda:
+    - Ajustar permissões IAM;
+    - Criar log groups e anexar;
+    - Generalizar mais e usar os parâmetros necessários;
+    - Criar um dicionário com os possíveis modulos/nome de funções?
+    - Como armazenar variáveis de ambiente?
